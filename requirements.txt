@@ -1,0 +1,4 @@
+import sklearn, pandas, joblib
+print("pandas==" + pandas.__version__)
+print("scikit-learn==" + sklearn.__version__)
+print("joblib==" + joblib.__version__)
